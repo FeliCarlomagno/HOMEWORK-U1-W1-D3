@@ -3,3 +3,22 @@ body {
   margin-left: 30em;
   margin-right: 30em;
 }
+
+img {
+  text-align: center;
+  width: 100%;
+  max-width: 7em;
+}
+
+header {
+  text-align: center;
+}
+
+.first-div {
+  text-align: center;
+}
+
+video {
+  text-align: center;
+  width: 100%;
+}
