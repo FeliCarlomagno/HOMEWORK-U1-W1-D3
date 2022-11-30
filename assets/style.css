@@ -1,5 +1,6 @@
 body {
   width: 100%;
+  font-family: lato;
 }
 
 .header-container {
@@ -54,4 +55,8 @@ video {
 
 hr {
   background-color: rgb(4, 173, 133);
+}
+
+.color-a {
+  color: rgb(4, 173, 133);
 }
