@@ -11,3 +11,15 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+.first-div {
+  text-align: center;
+}
+
+.video-container {
+  width: 100%;
+}
+
+video {
+  width: 100%;
+}
