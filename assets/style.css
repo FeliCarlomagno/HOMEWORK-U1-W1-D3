@@ -43,3 +43,15 @@ span {
 video {
   width: 100%;
 }
+
+.span-p {
+  color: orangered;
+}
+
+.span-p2 {
+  color: rgb(4, 173, 133);
+}
+
+hr {
+  background-color: rgb(4, 173, 133);
+}
