@@ -1,6 +1,7 @@
 body {
   width: 100%;
   font-family: lato;
+  font-size: medium;
 }
 
 .header-container {
@@ -11,6 +12,8 @@ body {
   width: 100%;
   height: 35px;
   background-color: #eff5713b;
+  border-top-style: solid;
+  border-top-color: orange;
 }
 
 .p-header2 {
@@ -48,10 +51,17 @@ video {
 
 .span-p {
   color: orangered;
+  margin-left: 10px;
 }
 
 .span-p2 {
   color: rgb(4, 173, 133);
+  margin-left: 10px;
+}
+
+.border-style {
+  border-left-style: solid;
+  border-left-color: orange;
 }
 
 hr {
