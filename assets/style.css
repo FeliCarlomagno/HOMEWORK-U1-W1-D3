@@ -6,6 +6,21 @@ body {
   text-align: center;
 }
 
+.p-header {
+  height: 35px;
+  background-color: #eff5713b;
+}
+
+.p-header2 {
+  text-align: inherit;
+  width: 100%;
+  color: #107777;
+}
+
+span {
+  font-weight: bold;
+}
+
 .main-container {
   width: 40em;
   margin-left: auto;
